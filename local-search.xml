@@ -107,22 +107,22 @@
   
   
   <entry>
-    <title>about</title>
+    <title>类别</title>
     <link href="/legalhigh/"/>
     <url>/legalhigh/</url>
     
-    <content type="html"><![CDATA[<div>  <p>  咨询电话: 18944061878<br>  联系邮箱: legalhighcn@163.com<br>  联系地址: 南京市鼓楼区郑和中路18号中海广场A座8层  </p>  <div style="display:flex;">    <div class="contact" style="margin-right: 20px">      <img src="/legalhigh/images/官方微信.jpg" width="107" />      <span>关注官方微信</span>    </div>    <div class="contact">      <img src="/legalhigh/images/律师微信.png" width="107" />      <span>关注律师微信</span>    </div>  </div>  <style scoped>    .about-avatar img {      background-color: #fff;    }    .contact {      display: flex;      flex-direction: column;      text-align: center;    }  </style></div>]]></content>
+    <content type="html"><![CDATA[]]></content>
     
   </entry>
   
   
   
   <entry>
-    <title>类别</title>
+    <title>about</title>
     <link href="/legalhigh/"/>
     <url>/legalhigh/</url>
     
-    <content type="html"><![CDATA[]]></content>
+    <content type="html"><![CDATA[<div>  <p>  咨询电话: 18944061878<br>  联系邮箱: legalhighcn@163.com<br>  联系地址: 南京市鼓楼区郑和中路18号中海广场A座8层  </p>  <div style="display:flex;">    <div class="contact" style="margin-right: 20px">      <img src="../images/官方微信.jpg" width="107" />      <span>关注官方微信</span>    </div>    <div class="contact">      <img src="../images/律师微信.png" width="107" />      <span>关注律师微信</span>    </div>  </div>  <style scoped>    .about-avatar img {      background-color: #fff;    }    .contact {      display: flex;      flex-direction: column;      text-align: center;    }  </style></div>]]></content>
     
   </entry>
   
