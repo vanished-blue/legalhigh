@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://vanished-blue.github.io/hexo/about/</loc>
+    
+    <lastmod>2024-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanished-blue.github.io/hexo/posts/59a9332cd72c/</loc>
+    
+    <lastmod>2024-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanished-blue.github.io/hexo/posts/cda2af792a29/</loc>
+    
+    <lastmod>2024-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanished-blue.github.io/hexo/posts/2ad520ad13d8/</loc>
+    
+    <lastmod>2024-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanished-blue.github.io/hexo/posts/a76c677a7bbe/</loc>
+    
+    <lastmod>2024-12-28</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanished-blue.github.io/hexo/categories/</loc>
+    
+    <lastmod>2024-12-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://vanished-blue.github.io/hexo</loc>
+    <lastmod>2024-12-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+
+  
+</urlset>
